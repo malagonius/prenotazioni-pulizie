@@ -1,19 +1,7 @@
-
-    <iframe
-      id="JotFormIFrame-213072878550358"
-      title="Business Registration Form"
-      onload="window.parent.scrollTo(0,0)"
-      allowtransparency="true"
-      allowfullscreen="true"
-      allow="geolocation; microphone; camera"
-      src="https://form.jotform.com/213072878550358"
-      frameborder="0"
-      style="
-      min-width: 100%;
-      height:539px;
-      border:none;"
-      scrolling="no"
-    >
+<body><div style="
+    overflow: hidden;
+    max-height: 580px;
+"><iframe id="JotFormIFrame-213072878550358" title="Business Registration Form" onload="window.parent.scrollTo(0,0)" allowtransparency="true" allowfullscreen="true" allow="geolocation; microphone; camera" src="https://form.jotform.com/213072878550358?isIframeEmbed=1" frameborder="0" style="min-width: 100%; height: 640px; border: none;" scrolling="no">
     </iframe>
     <script type="text/javascript">
       var ifr = document.getElementById("JotFormIFrame-213072878550358");
@@ -94,4 +82,4 @@
       } else if (window.attachEvent) {
         window.attachEvent("onmessage", handleIFrameMessage);
       }
-      </script>
+    </script></div></body>
