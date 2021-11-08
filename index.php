@@ -15,6 +15,5 @@
 }
 </style>
 <body>
-    <div class="clear">
-    </div>
+   
 </body>
