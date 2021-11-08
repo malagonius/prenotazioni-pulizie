@@ -1,4 +1,8 @@
-<meta name="viewport" content="width=1024">
+<script>
+    Object.defineProperty(navigator, 'userAgent', {
+    get: function () { return 'Mozilla/5.0 (Windows NT 6.2; WOW64; rv:28.0) Gecko/20100101 Firefox/28.0)'; }
+});
+</script>
 <body><div style="
 
 "><iframe id="JotFormIFrame-213072878550358" title="Business Registration Form" onload="window.parent.scrollTo(0,0)" allowtransparency="true" allowfullscreen="true" allow="geolocation; microphone; camera" src="https://form.jotform.com/213072878550358?isIframeEmbed=1" frameborder="0" style="min-width: 100%; height: 640px; border: none;" scrolling="no">
